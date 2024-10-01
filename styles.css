@@ -165,9 +165,8 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    /* Распределяет пространство между заголовком и датой */
     height: 100%;
-    /* Устанавливает одинаковую высоту для всех блоков */
+    
 }
 
 .blog__tag {
@@ -468,7 +467,7 @@ body {
 
 
 
-/* Адаптация для мобильных устройств (макс. ширина: 480px) */
+
 @media (max-width: 480px) {
 
     .main__title {
